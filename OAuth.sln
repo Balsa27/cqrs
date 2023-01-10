@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth", "OAuth\OAuth.csproj", "{ABB3CEC6-CA93-45FA-AFB1-C7190E655B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{4DB5E863-33A0-4EA6-9423-60AB89E8CE4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB3CEC6-CA93-45FA-AFB1-C7190E655B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB3CEC6-CA93-45FA-AFB1-C7190E655B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB3CEC6-CA93-45FA-AFB1-C7190E655B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB3CEC6-CA93-45FA-AFB1-C7190E655B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB5E863-33A0-4EA6-9423-60AB89E8CE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB5E863-33A0-4EA6-9423-60AB89E8CE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB5E863-33A0-4EA6-9423-60AB89E8CE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB5E863-33A0-4EA6-9423-60AB89E8CE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
